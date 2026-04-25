@@ -1,8 +1,3 @@
-# Tang Frontier
-
-> Not made by Rockstar. This project is not affiliated with Rockstar Games, Grand Theft Auto, or any related IP.
-
-**Tang Frontier** is a working codename for a 2D / 2.5D cooperative Tang-dynasty fantasy base-defense adventure RPG.
 
 The project concept is built around a central town that players rebuild, manage, defend, and expand. During the day, players gather resources, construct buildings, assign workers, trade goods, research threats, and prepare defenses. At night, supernatural forces attack the town from multiple directions. Players may defend the town, repair infrastructure, run logistics, operate buildings, or leave the walls to complete high-risk objectives that affect the invasion.
 
